@@ -14,4 +14,4 @@ Projeto criado para avaliar os dedos das mãos e avaliar se está quebrado.
  
 ## 🛠 Tecnologias Utilizadas
 - Linguagem: Python
-- Framework: tensorflow, pandas, numpy, matplotlib, opencv, scipy.
+- Ferramentas: tensorflow, pandas, numpy, matplotlib, opencv, scipy.
