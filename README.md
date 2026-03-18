@@ -6,11 +6,11 @@
 - Curso: Big Data e Machine Learning SESI FATEG GO
  
 ## 📘 Descrição do Projeto
-Escreva aqui um resumo claro sobre:
-- o problema abordado
-- o objetivo do projeto
-- para quem foi desenvolvido
-- principais funcionalidades
+Projeto criado para avaliar os dedos das mãos e avaliar se está quebrado. 
+É classificado em:
+- Normal;
+- Fratura leve;
+- Fratura grave.
  
 ## 🛠 Tecnologias Utilizadas
 - Linguagem: Python
